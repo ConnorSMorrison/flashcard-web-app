@@ -20,6 +20,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltejs/adapter-node": "^1.1.4"
+		"@sveltejs/adapter-node": "^1.0.0-next.106",
+		"@sveltejs/adapter-static": "^1.0.5",
+		"@sveltejs/adapter-vercel": "^1.0.5"
 	}
 }
